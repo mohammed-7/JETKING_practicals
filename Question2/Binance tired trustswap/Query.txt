@@ -1,0 +1,1 @@
+i tried to create token in polygon mumbai faucet but it is not showing up in the trustswap mint website , hence i tried it through binance testnet and it was taking lil long to create the token as i have completed my all steps in creating it. 

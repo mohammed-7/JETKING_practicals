@@ -1,0 +1,5 @@
+1.How to create your own Cryptocurrency token on Polygon Blockchain ?
+Step1: go to mint.trustswap.com 
+step2: connect the metamask wallet to this site 
+step3: click create coin and fill the token information.
+step4:now when you click the submit button for moving ahead then it send the token to your respective wallet.
